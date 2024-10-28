@@ -2,8 +2,8 @@
 >Editores de este proyecto
 
 >[!IMPORTANT]
->Alcantar Gonzalez Martha Melisa
->Barrientos Vital Angel David
->Juares Cuevas Karol
->Moreno Dominguez Victor Hugo
->Zavala Peredo Obed Asael
+>Alcantar Gonzalez Martha Melisa<br>
+>Barrientos Vital Angel David<br>
+>Juares Cuevas Karol<br>
+>Moreno Dominguez Victor Hugo<br>
+>Zavala Peredo Obed Asael<br>
